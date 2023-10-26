@@ -2,7 +2,7 @@
 2023F-Machine Learning Term Project: Topic Modelling on Amazon Review Data
 
 ## Directory Structure
-./
+./ \
 ├─ Final.ipynb ────────────────── All codes for this report
 ├─ cache ──────────────────────── Directory for caching HDBSCAN
 ├─ result ─────────────────────── Directory to store experiment 
