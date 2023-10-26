@@ -3,10 +3,10 @@
 
 ## Directory Structure
 ./ \
-├─ Final.ipynb ────────────────── All codes for this report
-├─ cache ──────────────────────── Directory for caching HDBSCAN
-├─ result ─────────────────────── Directory to store experiment 
-└─ dataset
-   ├─ beauty.csv ──────────────── Main dataset with 30,000 beauty reviews
+├─ Final.ipynb ────────────────── All codes for this report \
+├─ cache ──────────────────────── Directory for caching HDBSCAN \
+├─ result ─────────────────────── Directory to store experiment  \
+└─ dataset \
+   ├─ beauty.csv ──────────────── Main dataset with 30,000 beauty reviews \
    └─ whole.csv ───────────────── 100,000 reviews of movie, beauty, hotel
    
